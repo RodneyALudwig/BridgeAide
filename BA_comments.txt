@@ -3,7 +3,7 @@
 //  Created by Rodney Ludwig on 5/15/25.
 //
 //
-// initialized with short/long comments 1000 and 20002
+// initialized with short/long comments 1000 and 20002 by Don Freeland
 "101 : \"BIDDING\"",
 "102 : \"INITIALIZE\"",
 "103 : \"BIDDING_BOX\"",
