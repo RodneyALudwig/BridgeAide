@@ -1,9 +1,3 @@
-//
-//  BA_comments.txt
-//  Created by Rodney Ludwig on 5/15/25.
-//
-//
-// initialized with short/long comments 1000 and 20002 by Don Freeland
 "101 : \"BIDDING\"",
 "102 : \"INITIALIZE\"",
 "103 : \"BIDDING_BOX\"",
@@ -236,7 +230,7 @@
 "1121 : \"The law: 9 trump -> 3 level\"",
 "1122 : \"The law: 8 trump -> game\"",
 "1123 : \"The law: 9 trump -> game\"",
-"1124 : \"!Support double - shows 3 card support for partners #ds\"",
+"1124 : \"(!Support double - shows 3 card support for partner's #ds) ::: ^1. It applies through 2 spades on opener's right. A support double only occurs after a 1 heart or 1 spade response\"",
 "1125 : \"!Guarantees 4 #ds \"",
 "1126 : \"!Support redouble - 3 #ds\"",
 "1127 : \"The law: 10 trump -> game support\"",
@@ -1277,7 +1271,7 @@
 "3361 : \"agrees suit for slam consideration to #d\"",
 "3362 : \"agrees suit and bids game for #d\"",
 "3370 : \"!Submin or wasted honor\"",
-"3371 : \"!Normal strength 9to n11 support points\"",
+"3371 : \"!Normal strength 9 to 11 support points\"",
 "3372 : \"!12 to 14 support points NR\"",
 "3373 : \"!15 to 18 support points NR\"",
 "3380 : \"!Request keycards\"",
@@ -2354,7 +2348,7 @@
 "9061 : \"!5+ Clubs; no major\"",
 "9062 : \"18+ with stopper for #d\"",
 "9065 : \"Strong #as\"",
-"9067 : \"Stopper for #d and balanced and >15 high card points NR\"",
+"9067 : \"Stopper for #d and balanced and greater than 15 high card points NR\"",
 "9070 : \"Stopper but not length\"",
 "9071 : \"Correct back\"",
 "9072 : \"Control in their suit in response to forcing pass so bidding slam in our suit\"",
