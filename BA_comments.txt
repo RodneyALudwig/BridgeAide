@@ -230,7 +230,7 @@
     "1121 : \"The law: 9 trump -> 3 level\"",
     "1122 : \"The law: 8 trump -> game\"",
     "1123 : \"The law: 9 trump -> game\"",
-    "1124 : \"(!Support double - shows 3 card support for partner's #ds) ::: ^1. It applies through 2 spades on opener's right. A support double only occurs after a 1 heart or 1 spade response\"",
+    "1124 : \"{!Support double - shows 3 card support for partner's #ds} ::: ^1. It applies through 2 spades on opener's right. A support double only occurs after a 1 heart or 1 spade response\"",
     "1125 : \"!Guarantees 4 #ds \"",
     "1126 : \"!Support redouble - 3 #ds\"",
     "1127 : \"The law: 10 trump -> game support\"",
